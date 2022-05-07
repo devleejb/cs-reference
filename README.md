@@ -18,5 +18,8 @@
 ## Security
 - [패스워드의 암호화와 저장 - Hash(해시)와 Salt(솔트)](https://st-lab.tistory.com/100)
 
+## Tech Blog
+- [뱅크샐러드 기술 블로그](https://blog.banksalad.com/tech/)
+- 
 ## ETC
 - [인프런 서비스 장애 대처 후기](https://tech.inflab.com/202201-event-postmortem/)
