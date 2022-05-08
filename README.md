@@ -23,6 +23,7 @@
 
 ## Tech Blog
 - [뱅크샐러드 기술 블로그](https://blog.banksalad.com/tech/)
+- [우아한 형제들 기술 블로그](https://techblog.woowahan.com/)
 
 ## ETC
 - [인프런 서비스 장애 대처 후기](https://tech.inflab.com/202201-event-postmortem/)
