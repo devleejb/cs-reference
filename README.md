@@ -24,6 +24,9 @@
 ## Testing
 - [How To Test #1. Unit Test (feat. jest)](https://devowen.com/427)
 
+## Blockchain
+- [NFT란 무엇인가? 초보자를 위한 NFT 입문 가이드](https://www.business2community.com/kr/nft)
+
 ## Tech Blog
 - [뱅크샐러드 기술 블로그](https://blog.banksalad.com/tech/)
 - [우아한 형제들 기술 블로그](https://techblog.woowahan.com/)
