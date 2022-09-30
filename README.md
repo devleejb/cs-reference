@@ -26,6 +26,7 @@
 
 ## Blockchain
 - [NFT란 무엇인가? 초보자를 위한 NFT 입문 가이드](https://www.business2community.com/kr/nft)
+- [Crypto Zombies - Solidity Tutorial](https://cryptozombies.io/)
 
 ## Tech Blog
 - [뱅크샐러드 기술 블로그](https://blog.banksalad.com/tech/)
